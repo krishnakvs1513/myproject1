@@ -5,7 +5,9 @@ using namespace std; // Use names from the standard library
 int main() 
 {
     // Output text to the console
-    cout << "Jai jai ganesh deva 1513 108\n";
+    std::cout << "Jai jai ganesh deva 1513 108\n";
+    std::cout << "1513 108\n";
+    
 
     return 0; // End the program successfully
 }
